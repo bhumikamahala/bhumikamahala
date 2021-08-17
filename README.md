@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @bhumikamahala
+- 👋 Hi, I’m Bhumika , Currently Pursuing B.Tech from GWECA , Final year Student . 
 
-- 👀 I’m interested in Web Development
+- 👀 I’m interested in Web Development (MERN).
 
 - 🌱 I’m currently working on javascript , node js , express , mongo db , react project ,
      basically i am brush up my MERN Full Stack Developer Skills. 
