@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Bhumika , Completed B.Tech in computer science engineering . 
+- 👋 Hi, I’m Bhumika Mahala , Completed B.Tech in computer science engineering . 
 
 - 👀 I’m interested in testing roles like SDET and QA .
      
